@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = OnExactitudeInScience::VERSION
   spec.authors       = ["Cole Willsea"]
   spec.email         = ["coleww@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Extends Ruby to engage with the work of Jorge Louis Borges}
+  spec.description   = %q{Allows user to access the text of 'On Exactitude In Science' by calling a method on any object wherein the method name is a symbol-ized representation of the text of 'On Exactitude In Science'.}
+  spec.homepage      = "https://github.com/coleww/on_exactitude_in_science"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
