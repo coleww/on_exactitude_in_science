@@ -1,5 +1,9 @@
 require "on_exactitude_in_science/version"
 
-module OnExactitudeInScience
-  # Your code goes here...
-end
+# def method_missing(m, *args, &block)
+#   if
+#     m.to_s
+#   else
+#     super
+#   end
+# end
