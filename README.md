@@ -32,5 +32,6 @@ If the user attempts to call a method on any object, where the name of that meth
 
 
 
+[![Build Status](https://travis-ci.org/coleww/on_exactitude_in_science.svg?branch=master)](https://travis-ci.org/coleww/on_exactitude_in_science) 
 
 
