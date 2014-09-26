@@ -1,5 +1,7 @@
 # OnExactitudeInScience
 
+[![Build Status](https://travis-ci.org/coleww/on_exactitude_in_science.svg?branch=master)](https://travis-ci.org/coleww/on_exactitude_in_science)
+
 Extends Ruby to critically engage with On Exactitude in Science by Jorge Luis Borges
 
 If the user attempts to call a method on any object, where the name of that method corresponds directly to the main text of On Exactitude in Science, then Ruby will return the formatted text of On Exactitude in Science for your enjoyment
@@ -29,9 +31,4 @@ If the user attempts to call a method on any object, where the name of that meth
 
     irb(...)> puts in_that_CASTLE_the_art_of_SCIENCE_attained_such_FAILURE_that_the_map_of_a_TON_OF_province.....etc.
     NameError: undefined local variable or method `in_that_CASTLE_the_art_of_SCIENCE_attained_such_FAILURE_that_the_map_of_a_TON_OF_province_.........etc.
-
-
-
-[![Build Status](https://travis-ci.org/coleww/on_exactitude_in_science.svg?branch=master)](https://travis-ci.org/coleww/on_exactitude_in_science) 
-
 
