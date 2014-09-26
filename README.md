@@ -1,6 +1,6 @@
 # OnExactitudeInScience
 
-Extends Ruby to critically engage with On Exactitude in Science by Jorge Louis Borges
+Extends Ruby to critically engage with On Exactitude in Science by Jorge Luis Borges
 
 If the user attempts to call a method on any object, where the name of that method corresponds directly to the main text of On Exactitude in Science, then Ruby will return the formatted text of On Exactitude in Science for your enjoyment
 
